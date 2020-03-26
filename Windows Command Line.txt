@@ -1,0 +1,6 @@
+to scp:
+
+pscp -scp X Y
+
+e.g.
+pscp -scp MarketingScripts.zip user1@host2:/tmp/
